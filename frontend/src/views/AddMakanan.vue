@@ -5,7 +5,7 @@
   >
     <div class="addBookModal container">
       <form @submit.prevent="createData(form)">
-        <h1>Input Data Buku</h1>
+        <h1>Input Data Makanan</h1>
         <div class="form-group">
           <label for="input-title">*Nama Makanan</label>
           <input
